@@ -51,6 +51,7 @@ db.getCollection("log_analyzer").find({"_id" : ObjectId("64aef54dffc59e1f7ce5f6b
 * brew tap mongodb/brew
   brew install mongodb-community
 * brew services start mongodb-community
+* Mongodb IDE: https://studio3t.com/download-studio3t-free/
 
 ## Run the MongoDB server
 
